@@ -21,7 +21,7 @@ on:
       - main
 
 env: the
-  AZURE_WEBAPP_NAME: Manisha1 2 3     # set this to your application's name
+  AZURE_WEBAPP_NAME: Manisha_1_2_3   # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '10.x'                # set this to the node version to use
 
