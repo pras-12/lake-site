@@ -1,6 +1,6 @@
 ---
-Name: Manisha@12
-About: It is the Game where a little Girl fall under the thundering  kingdom.
+Name:'Manisha@12'
+About: 'It is the Game where a little Girl fall under the thundering  kingdom.'
 Title: 'kuency'
 Labels: 'hint'
 Assignees: 'Prasanta Mohanty'
