@@ -1,6 +1,6 @@
 ---
-Name: Bug report
-About: Create a report to help us improve
+Name: Manisha@12
+About: It is the Game where a little Girl fall under the thundering  kingdom.
 Title: 'kuency'
 Labels: 'hint'
 Assignees: 'Prasanta Mohanty'
