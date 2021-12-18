@@ -1,5 +1,5 @@
 ---
-Name:'Manisha@12'
+Name:'Manisha'
 About: 'It is the Game where a little Girl fall under the thundering  kingdom.'
 Title: 'kuency'
 Labels: 'hint'
@@ -12,10 +12,12 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Go to 'Menu'
+2. Click on 'Start'
+3. Scroll down to 'Stage-1'
+4. Scroll down to 'Stage-2'
+5. Scroll down to 'Stage- 3'
+6. Summary of task 'Figure out'
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
