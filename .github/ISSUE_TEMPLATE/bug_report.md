@@ -18,6 +18,7 @@ Steps to reproduce the behavior:
 4. Scroll down to 'Stage-2'
 5. Scroll down to 'Stage- 3'
 6. Summary of task 'Figure out'
+7. Click to 'Finish'
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -26,7 +27,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+ - OS: [e.g. Mac]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
