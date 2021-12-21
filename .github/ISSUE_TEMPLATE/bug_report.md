@@ -8,7 +8,8 @@ Assignees: 'Prasanta Mohanty'
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+it's all about the story of a little Girl who has been going to a kingdom.
+ For finding  her soul which was captured by demon.
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -32,9 +33,9 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
+ - Device: [e.g. Android 11]
  - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
+ - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
 **Additional context**
